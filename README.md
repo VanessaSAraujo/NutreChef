@@ -34,6 +34,9 @@ O NutreChef é um projeto desenvolvido como parte do aprendizado de prototipagem
 - Google Fonts
 - Reset CSS
 
+## Para Visualizar
+https://vanessasaraujo.github.io/NutreChef/
+
 ## Autora
 
 - [Vanessa](https://github.com/VanessaSAraujo)
